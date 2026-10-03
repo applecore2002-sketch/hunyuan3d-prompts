@@ -4,7 +4,7 @@
 > 全部成品提示词为原创自写中文，**可自由使用、可商用**（MIT）。
 > 本仓库为社区整理的**非官方**词库，与腾讯无隶属关系；"混元 / Hunyuan3D"为腾讯商标，此处仅作描述性使用。
 >
-> 🚀 不想折腾提示词？打开 [3d.paper.ac.cn](https://3d.paper.ac.cn) —— 本词库已内置进生成流程，上传一张图 / 输入一句话，按次付费，微信支付，直出可导入 Blender / Unity / 3D 打印的 GLB。
+> 🚀 不想折腾提示词？打开 [3d.paper.ac.cn](https://3d.paper.ac.cn/?utm_source=github&utm_medium=repo&utm_campaign=oss-prompts) —— 本词库已内置进生成流程，上传一张图 / 输入一句话，按次付费，微信支付，直出可导入 Blender / Unity / 3D 打印的 GLB。
 
 ## 为什么需要这份词库
 
@@ -134,7 +134,7 @@
 
 ## 在线工具
 
-🚀 **[3d.paper.ac.cn](https://3d.paper.ac.cn)** —— 本词库已内置进生成流程：点选模板/风格/材质自动组装提示词，支持图生 3D、多视角高清档，微信支付按次付费，直出可导入 Blender / Unity / Godot / 3D 打印的 GLB。
+🚀 **[3d.paper.ac.cn](https://3d.paper.ac.cn/?utm_source=github&utm_medium=repo&utm_campaign=oss-prompts)** —— 本词库已内置进生成流程：点选模板/风格/材质自动组装提示词，支持图生 3D、多视角高清档，微信支付按次付费，直出可导入 Blender / Unity / Godot / 3D 打印的 GLB。
 
 ## 参考
 
